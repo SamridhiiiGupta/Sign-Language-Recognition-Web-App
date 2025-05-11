@@ -102,5 +102,3 @@ Contributions, improvements, and suggestions are welcome! Feel free to open a pu
 [LinkedIn]( linkedin.com/in/samridhiii-gupta  ) • [GitHub](github.com/SamridhiiiGupta)
 
 ---
-
-```
